@@ -1,0 +1,3 @@
+model_checkpoint_path: "/global/scratch/catherinewang/vanillatrain/saved_models//trainVanilla//deepMedic_vanilla.trainVanilla.2020-07-08.09.56.04.650148.model.ckpt"
+all_model_checkpoint_paths: "/global/scratch/catherinewang/vanillatrain/saved_models//trainVanilla//deepMedic_vanilla.trainVanilla.2020-07-04.12.46.56.435467.model.ckpt"
+all_model_checkpoint_paths: "/global/scratch/catherinewang/vanillatrain/saved_models//trainVanilla//deepMedic_vanilla.trainVanilla.2020-07-08.09.56.04.650148.model.ckpt"
