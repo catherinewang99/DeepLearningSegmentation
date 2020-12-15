@@ -1,0 +1,35 @@
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file bin_r_c0005s0017t01_mask.nii.gz does not exist . 
+/var/spool/sge-8.1.9/default/spool/nx25/job_scripts/3878585: line 13: 1651950 Segmentation fault      (core dumped) ImageMath 3 bin_r_${folder%?}_lesionMaskNeg.nii.gz Neg bin_r_${folder%?}_mask.nii.gz
+ file /home/despoB/cathwang/native/native_1/c0005/c0005s0017t01//forks/Output_brain_ANTS/OutputBrainExtractionBrain.nii.gz does not exist . 
+Transform file does not exist: /home/despoB/cathwang/native/native_1/c0005/c0005s0017t01//forks/Output_brain_ANTS/SyN/MNItoT1_1Warp.nii.gz
+ file /home/despoB/cathwang/native/native_1/c0005/c0005s0017t01//forks/Output_brain_ANTS/OutputBrainExtractionBrain.nii.gz does not exist . 
+Transform file does not exist: /home/despoB/cathwang/native/native_1/c0005/c0005s0017t01//forks/Output_brain_ANTS/SyN/MNItoT1_1Warp.nii.gz
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 

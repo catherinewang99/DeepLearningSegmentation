@@ -1,0 +1,79 @@
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+ file NULL does not exist . 
+Can't write transform file /home/despoB/cathwang/native/native_2/c0010/c0010s0044t01//forks/Output_brain_ANTS/SyN/MNItoT1_0GenericAffine.mat
+Exception Object caught: 
+
+itk::ExceptionObject (0x51420b0)
+Location: "unknown" 
+File: /home/despoB/dlurie/Software/bin/ants/ITKv4/Modules/IO/TransformBase/include/itkTransformIOBase.hxx
+Line: 94
+Description: itk::ERROR: MatlabTransformIOTemplate(0x5645a60): Failed opening file/home/despoB/cathwang/native/native_2/c0010/c0010s0044t01//forks/Output_brain_ANTS/SyN/MNItoT1_0GenericAffine.mat
+
+
+** ERROR (nifti_image_write_hdr_img2): cannot open output file '/home/despoB/cathwang/native/native_2/c0010/c0010s0044t01//forks/Output_brain_ANTS/SyN/MNItoT1_1Warp.nii.gz'
+** ERROR (nifti_image_write_hdr_img2): cannot open output file '/home/despoB/cathwang/native/native_2/c0010/c0010s0044t01//forks/Output_brain_ANTS/SyN/MNItoT1_1InverseWarp.nii.gz'
+** ERROR (nifti_image_write_hdr_img2): cannot open output file '/home/despoB/cathwang/native/native_2/c0010/c0010s0044t01//forks/Output_brain_ANTS/SyN/MNItoT1_Warped.nii.gz'
+** ERROR (nifti_image_write_hdr_img2): cannot open output file '/home/despoB/cathwang/native/native_2/c0010/c0010s0044t01//forks/Output_brain_ANTS/SyN/MNItoT1_InverseWarped.nii.gz'
+Transform file does not exist: /home/despoB/cathwang/native/native_2/c0010/c0010s0044t01//forks/Output_brain_ANTS/SyN/MNItoT1_1Warp.nii.gz
+Transform file does not exist: /home/despoB/cathwang/native/native_2/c0010/c0010s0044t01//forks/Output_brain_ANTS/SyN/MNItoT1_1Warp.nii.gz
+** ERROR (nifti_image_write_hdr_img2): cannot open output file 'bin_r_c0010s0044t02_lesionMaskNeg.nii.gz'
+mkdir: cannot create directory ‘SyN’: Disk quota exceeded
+cat: write error: Disk quota exceeded
+ file /home/despoB/cathwang/native/native_2/c0010/c0010s0044t02//bin_r_c0010s0044t02_lesionMaskNeg.nii.gz does not exist . 
+ file NULL does not exist . 
+Can't write transform file /home/despoB/cathwang/native/native_2/c0010/c0010s0044t02//forks/Output_brain_ANTS/SyN/MNItoT1_0GenericAffine.mat
+Exception Object caught: 
+
+itk::ExceptionObject (0x39c3620)
+Location: "unknown" 
+File: /home/despoB/dlurie/Software/bin/ants/ITKv4/Modules/IO/TransformBase/include/itkTransformIOBase.hxx
+Line: 94
+Description: itk::ERROR: MatlabTransformIOTemplate(0x3960460): Failed opening file/home/despoB/cathwang/native/native_2/c0010/c0010s0044t02//forks/Output_brain_ANTS/SyN/MNItoT1_0GenericAffine.mat
+
+
+** ERROR (nifti_image_write_hdr_img2): cannot open output file '/home/despoB/cathwang/native/native_2/c0010/c0010s0044t02//forks/Output_brain_ANTS/SyN/MNItoT1_1Warp.nii.gz'
+** ERROR (nifti_image_write_hdr_img2): cannot open output file '/home/despoB/cathwang/native/native_2/c0010/c0010s0044t02//forks/Output_brain_ANTS/SyN/MNItoT1_1InverseWarp.nii.gz'
+** ERROR (nifti_image_w
