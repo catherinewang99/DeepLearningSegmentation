@@ -34,4 +34,4 @@ In the [data setup folder](https://github.com/catherinewangberkeley/DeepLearning
 
 ## Saved models
 
-In the [saved models folder](https://github.com/catherinewangberkeley/DeepLearningSegmentation/tree/main/final%20model/saved_models/trainVanilla), the 
+In the [saved models folder](https://github.com/catherinewangberkeley/DeepLearningSegmentation/tree/main/final%20model/saved_models/trainVanilla), we have loaded the final trained network after 15 epochs. There are two checkpoints, one on 7-08, which is the final version, and one on 7-04, as a backup option. To run and train the model using our trained version, the instructions can be found on the DeepMedic Github page. The correct file to use is 'deepMedic_vanilla.trainVanilla.2020-07-08.09.56.04.650148.model.ckpt.', founded [here](https://github.com/catherinewangberkeley/DeepLearningSegmentation/blob/main/final%20model/saved_models/trainVanilla/deepMedic_vanilla.trainVanilla.2020-07-08.09.56.04.650148.model.ckpt.index).
